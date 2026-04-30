@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.fahrhilfe" "\0"
-            VALUE "FileDescription", "fahrhilfe_app" "\0"
+            VALUE "CompanyName", "com.theoriemeister" "\0"
+            VALUE "FileDescription", "TheorieMeister" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "fahrhilfe_app" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2026 com.fahrhilfe. All rights reserved." "\0"
-            VALUE "OriginalFilename", "fahrhilfe_app.exe" "\0"
-            VALUE "ProductName", "fahrhilfe_app" "\0"
+            VALUE "InternalName", "TheorieMeister" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 com.theoriemeister. All rights reserved." "\0"
+            VALUE "OriginalFilename", "TheorieMeister.exe" "\0"
+            VALUE "ProductName", "TheorieMeister" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

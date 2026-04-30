@@ -1,4 +1,4 @@
-package com.fahrhilfe.fahrhilfe_app
+package com.theoriemeister.theorie_meister
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,4 +1,4 @@
-# fahrhilfe_app
+# TheorieMeister
 
 A new Flutter project.
 

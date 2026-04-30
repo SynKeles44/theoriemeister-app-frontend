@@ -5,10 +5,10 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = fahrhilfe_app
+PRODUCT_NAME = TheorieMeister
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.fahrhilfe.fahrhilfeApp
+PRODUCT_BUNDLE_IDENTIFIER = com.theoriemeister.theorieMeister
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2026 com.fahrhilfe. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2026 com.theoriemeister. All rights reserved.
