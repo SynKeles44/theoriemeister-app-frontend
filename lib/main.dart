@@ -41,11 +41,11 @@ class WelcomeScreen extends StatelessWidget {
 
               // Logo
               Container(
-                width: 130,
-                height: 130,
+                width: 160,
+                height: 160,
                 decoration: BoxDecoration(
                   color: const Color(0xFF132044),
-                  borderRadius: BorderRadius.circular(28),
+                  borderRadius: BorderRadius.circular(32),
                   boxShadow: [
                     BoxShadow(
                       color: const Color(0xFF2196F3).withOpacity(0.3),
@@ -54,16 +54,13 @@ class WelcomeScreen extends StatelessWidget {
                     ),
                   ],
                 ),
-                child: ClipRRect(
-                  borderRadius: BorderRadius.circular(28),
-                  child: Image.asset(
-                    'assets/logo.png',
-                    fit: BoxFit.cover,
-                    errorBuilder: (_, __, ___) => const Icon(
-                      Icons.school,
-                      size: 70,
-                      color: Color(0xFF2196F3),
-                    ),
+                child: Image.asset(
+                  'assets/logo.png',
+                  fit: BoxFit.cover,
+                  errorBuilder: (_, __, ___) => const Icon(
+                    Icons.school,
+                    size: 70,
+                    color: Color(0xFF2196F3),
                   ),
                 ),
               ),
