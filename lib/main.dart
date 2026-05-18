@@ -56,7 +56,7 @@ class WelcomeScreen extends StatelessWidget {
                   ],
                 ),
                 child: Image.asset(
-                  'assets/logo.png',
+                  'assets/images/logo.png',
                   fit: BoxFit.cover,
                   errorBuilder: (_, __, ___) => const Icon(
                     Icons.school,
